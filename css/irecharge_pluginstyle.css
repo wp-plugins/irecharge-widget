@@ -1,0 +1,79 @@
+#selected_network, #vtu_amount, #vtu_number, #vtu_email, #irecharge_i_button
+{
+	border: 1px solid #e1e1e1;
+	 -webkit-box-shadow: 0 1px #fff, inset 0 1px 4px rgba(0,0,0,.15);
+	 -moz-box-shadow: 0 1px #fff, inset 0 1px 4px rgba(0,0,0,.15);
+	 box-shadow: 0 1px #fff, inset 0 1px 4px rgba(0,0,0,.15);
+	 -webkit-border-radius: 3px;
+	 -moz-border-radius: 3px;
+	 border-radius: 3px;
+	 font-size: 12px;
+	 height: 35px;
+	 line-height: 22px;
+	 margin-bottom: 1px;
+	 min-height: 40px;
+	 padding: 5px 5px;
+	 width: 100% !IMPORTANT;
+}
+
+#selected_network2{
+    width: 20px;
+    background-color: #F05139;
+}
+
+br {
+	display: block;
+   margin: 5px 0;
+}
+
+#irecharge_i_button{
+	background: #F05139;
+	color: #ffffff;
+	border-radius:5px;
+	margin-top: 5px;
+	cursor: pointer;
+	 width: 100% !IMPORTANT;
+ }
+ 
+#topup_form_progress123{
+	display:inline-block;
+	padding:0 0 5px 0;
+	font-size:0.9em;
+	color:#999
+}
+
+#topup_display_message123{
+	  display:inline-block;
+	  padding:0 0 7px 0;
+	  font-size:0.9em;
+	  color:#999
+}
+#left12345{
+	  float:left;
+	  border-radius:4px 0 0 4px;
+	  border-right:solid thin #e1e1e1;
+	  background:#fff;
+	  padding:5px 10px 5px 5px;
+	  font-family:Aria,l;
+	  font-size:13px;
+	  font-weight:bold
+}
+#right12345{
+	  float:left;
+	  border-radius:0 4px 4px 0;
+	  padding-top:10px;
+	  padding-left:10px;
+	  text-align:justify
+}	
+#right12345 img{
+	  border:none !IMPORTANT;
+	  height:25px;
+	  border-radius:7px;
+	  margin-right:3px
+}
+
+#top_up_support123 img {
+			  height: 18px;
+			  margin-left: 5px;
+			  margin-right: 5px
+    	}
